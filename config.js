@@ -1,1 +1,1 @@
-export const REPO_NAME = '/html-hw2-leriia-spb
+export const REPO_NAME = '/html-hw2-leriia-spb'
